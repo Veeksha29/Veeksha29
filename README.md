@@ -13,7 +13,7 @@
 ## 💡 About Me
 
 * 💻 Passionate about creating real-world solutions through code
-* 🚀 Exploring **Go, Node.js, MongoDB, Vue/Angular**
+* 🚀 Exploring **React.js, Node.js, MongoDB, Vue/Angular**
 * 🧠 Enjoy building **structured, scalable backends**
 * 🧪 Learning Docker, CI/CD, DevOps basics
 
