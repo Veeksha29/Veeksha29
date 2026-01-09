@@ -42,12 +42,7 @@
 
 </details>
 
-<details>
-<summary>🎮 Fun & Gaming</summary>
 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge\&logo=nVIDIA\&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge\&logo=riotgames\&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge\&logo=unity\&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge\&logo=xbox\&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge\&logo=steam\&logoColor=white)
-
-</details>
 
 ---
 
