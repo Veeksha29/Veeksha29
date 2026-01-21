@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Veeksha</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Veeksha29/Veeksha29/main/illuviation/Veeksha-pilgrimism.zip+Mono&weight=600&pause=1000&color=0FFF95&center=true&vCenter=true&width=450&lines=Developer+%7C+Learner+%7C+Creator;Turning+ideas+into+impactful+solutions" alt="Typing SVG" />
+  
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Veeksha29/Veeksha29/main/illuviation/Veeksha-pilgrimism.zip" alt="Profile Views" />
+  
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## 💡 About Me
 
 * 💻 Passionate about creating real-world solutions through code
-* 🚀 Exploring **https://raw.githubusercontent.com/Veeksha29/Veeksha29/main/illuviation/Veeksha-pilgrimism.zip, https://raw.githubusercontent.com/Veeksha29/Veeksha29/main/illuviation/Veeksha-pilgrimism.zip, MongoDB, Vue/Angular**
+* 🚀 Exploring : React.js Javascript Data Analytics tools
 * 🧠 Enjoy building **structured, scalable backends**
 * 🧪 Learning Docker, CI/CD, DevOps basics
 
